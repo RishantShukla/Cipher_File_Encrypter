@@ -1,2 +1,2 @@
 # Cipher_File_Encrypter
-A web application that encrypts and decrypts a file.
+A web application that is based on file encryption using hybrid cryptography.
