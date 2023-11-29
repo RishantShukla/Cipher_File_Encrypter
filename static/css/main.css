@@ -723,14 +723,6 @@ video {
   width: 100%;
 }
 
-.max-w-7xl {
-  max-width: 80rem;
-}
-
-.max-w-\[85rem\] {
-  max-width: 85rem;
-}
-
 .max-w-full {
   max-width: 100%;
 }
@@ -1602,6 +1594,10 @@ video {
 @media (min-width: 1280px) {
   .xl\:w-\[60\%\] {
     width: 60%;
+  }
+
+  .xl\:w-\[70\%\] {
+    width: 70%;
   }
 
   .xl\:px-16 {
