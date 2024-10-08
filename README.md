@@ -7,3 +7,6 @@ npx tailwindcss -i ./static/src/input.css -o le_Encrypter-master> npx tailwindcs
 ./static/css/main.css --watch
 
 Python app.py
+
+
+[Uploading Rubric FINAL 22MCC20005_20007_20053_20055.pdf…]()
